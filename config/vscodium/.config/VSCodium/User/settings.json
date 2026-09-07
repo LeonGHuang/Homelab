@@ -75,5 +75,6 @@
         // windsurf pyright: hide grayed-out inferred types like "int | Unknown"
         "windsurfPyright.analysis.inlayHints.variableTypes": false,
         "editor.inlineSuggest.edits.allowCodeShifting": "never",
-        "editor.inlineSuggest.edits.renderSideBySide": "never"
+        "editor.inlineSuggest.edits.renderSideBySide": "never",
+        "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click"
 }
