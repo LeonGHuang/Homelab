@@ -11,6 +11,8 @@ gtk-quick-terminal-layer = overlay
 maximize = false
 fullscreen = false
 window-decoration = auto
+window-height = 30
+window-width = 103
 # command = tmux
 
 
