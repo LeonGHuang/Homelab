@@ -4,6 +4,7 @@ keybind = global:cmd+backquote=toggle_quick_terminal
 quick-terminal-position = top
 quick-terminal-size = 100%,100%
 quick-terminal-animation-duration = 0
+quick-terminal-screen = main
 quick-terminal-autohide = false
 gtk-quick-terminal-layer = overlay
 
@@ -11,8 +12,8 @@ gtk-quick-terminal-layer = overlay
 maximize = false
 fullscreen = false
 window-decoration = auto
-window-height = 30
-window-width = 103
+#window-height = 30
+#window-width = 103
 # command = tmux
 
 
@@ -27,7 +28,7 @@ window-padding-balance = true
 
 background = #111111
 background-blur = true
-background-opacity = 0.9
+background-opacity = 0.95
 
 
 copy-on-select = clipboard

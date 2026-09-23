@@ -76,5 +76,14 @@
         "windsurfPyright.analysis.inlayHints.variableTypes": false,
         "editor.inlineSuggest.edits.allowCodeShifting": "never",
         "editor.inlineSuggest.edits.renderSideBySide": "never",
-        "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click"
+        "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+        "[go]": {
+                
+                "editor.insertSpaces": false,
+                "editor.formatOnSave": true,
+                "editor.formatOnSaveMode": "file",
+                "editor.codeActionsOnSave": {
+                        "source.organizeImports": "explicit"
+                }
+        }
 }
