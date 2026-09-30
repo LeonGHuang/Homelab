@@ -17,7 +17,6 @@
                 }
         ],
 
-
         // vscode
         "editor.autoIndentOnPaste": true,
         "jupyter.interactiveWindow.textEditor.executeSelection": true,
@@ -61,6 +60,8 @@
         // theme
         "workbench.colorTheme": "Catppuccin Macchiato",
         "workbench.iconTheme": "vs-nomo-dark",
+        "editor.fontFamily": "JetBrainsMono Nerd Font, JetBrains Mono, monospace",
+        "editor.fontLigatures": true,
         "editor.foldingHighlight":false,
         "editor.tokenColorCustomizations": {
                 "textMateRules": [
