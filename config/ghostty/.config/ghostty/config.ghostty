@@ -18,7 +18,8 @@ window-decoration = auto
 
 
 font-size = 11
-font-family = JetBrains Mono 
+font-family = JetBrainsMono Nerd Font
+font-family = JetBrains Mono
 
 
 window-padding-x = 5
